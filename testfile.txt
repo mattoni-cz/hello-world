@@ -1,0 +1,2 @@
+test file synchronizovany z lokalu
+abc
